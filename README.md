@@ -1,8 +1,8 @@
-# **sena-base-2021 v6.0.5**
+# **sena-base-2021 v6.0.5 - Reconocimientos y aleaciones en los metales precioso.**
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecoredsena-atlantico.github.io/84240189_CF01_METALES_PRECIOSOS_Y_ALEACIONES-_PARA_JOYERIA/#/](https://ecoredsena-atlantico.github.io/84240189_CF01_METALES_PRECIOSOS_Y_ALEACIONES-_PARA_JOYERIA/#/)
 
 #
 
