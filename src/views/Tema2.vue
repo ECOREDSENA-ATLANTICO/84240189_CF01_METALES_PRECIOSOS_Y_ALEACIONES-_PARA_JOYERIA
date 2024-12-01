@@ -1,23 +1,24 @@
 <template lang="pug">
 .curso-main-container.pb-3
   BannerInterno
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
+  .container.tarjeta.tarjeta--blanca.px-4.px-md-5.pt-md-5.fnd-4-1.pt-4
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
       h1 Los metales de transición
-    .row.justify-content-center.align-items-center.mb-5.fnd-4.px-5.py-4(data-aos="zoom-in")
+  .container.tarjeta.fnd-4(data-aos="fade-left")
+    .row.justify-content-center.align-items-center.px-5.px-md-5.py-3
       .col-lg-3.col-md-8
         figure
           img(src='@/assets/curso/temas/tema2/img-1.png', alt='Texto que describa la imagen')    
       .col-lg-9.mt-4          
         p Los metales de transición o elementos de transición son aquellos situados en la parte central del sistema periódico, en el bloque D, ya que en todos ellos su orbital D, está ocupado por electrones en mayor o menor medida. 
-        
-    .row.align-items-center(data-aos="zoom-in")
+  .container.tarjeta.tarjeta--blanca.px-4.px-md-5.fnd-4-2-       
+    .row.align-items-center.mt-4(data-aos="zoom-in")
       .col-auto.mb-3
         h3.mb-0.fnd-2-1.fnd-2 Propiedades de los Metales de Transición:
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
       .col-lg-7.mb-4
         .row.pe-lg-3.justify-content-center
           .col-auto.pe-2.mt-2
@@ -47,8 +48,8 @@
       .col-lg-5
         figure
           img(src='@/assets/curso/temas/tema2/img-2.png', alt='Texto que describa la imagen')   
-    
-    .row.justify-content-center.align-items-center.mb-5.fnd-4.px-5.py-4(data-aos="fade-left")
+  .container.tarjeta.fnd-4
+    .row.justify-content-center.align-items-center.fnd-4.px-5.py-4(data-aos="fade-left")
       .col-lg-5.col-md-8.mb-4
         figure
           img(src='@/assets/curso/temas/tema2/img-3.png', alt='Texto que describa la imagen')    
@@ -69,7 +70,8 @@
             img(src="@/assets/curso/temas/tema2/check.svg")
           .col.px-0
             p.mb-0 Son elementos un poco extraños en el sentido de que, al clasificarlos en la tabla periódica, se parecen más por periodos (filas) que por grupos (columnas) como sería lo normal.
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
+  .container.tarjeta.tarjeta--blanca.px-4.px-md-5.fnd-4-2-               
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-7.mb-4.order-lg-1.order-2.mt-4
         .row.pe-lg-3.justify-content-center
           .col-auto.pe-2.mt-2
@@ -97,11 +99,11 @@
           .col.px-0
             p.mb-0 El número de oxidación 2 es el más frecuente: pierden los dos electrones de la capa s2 y pasan al anterior periodo. Hacia el centro del periodo hay mayor multiplicidad. El salto electrónico en estos iones es de energías bajas, por lo que cae dentro del espectro visible.
 
-      .col-lg-5.col-md-10.order-lg-2.order-1
-        figure
+      .col-lg-5.col-md-8.order-lg-2.order-1
+        figure.mt-4
           img(src='@/assets/curso/temas/tema2/img-4.svg', alt='Texto que describa la imagen') 
-
-    .row.justify-content-center.align-items-center.mb-5.fnd-4.px-5.py-4(data-aos="zoom-in")
+  .container.tarjeta.fnd-4
+    .row.justify-content-center.align-items-center.fnd-4.px-5.py-4(data-aos="zoom-in")
       .col-lg-5.col-md-8.mb-4
         figure
           img(src='@/assets/curso/temas/tema2/img-5.png', alt='Texto que describa la imagen')    
@@ -126,14 +128,15 @@
             img(src="@/assets/curso/temas/tema2/check.svg")
           .col.px-0
             p.mb-0 Se hidrolizan con facilidad.
-
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
+  .container.tarjeta.tarjeta--blanca.px-4.px-md-5.fnd-4-2 
+    .row.justify-content-center.align-items-center.mb-5.mt-4(data-aos="fade-right")
       .col-lg-10
         .titulo-sexto.c-r
           h5 Figura 1. 
           span Tabla periodico
         figure
           img(src='@/assets/curso/temas/tema2/img-7.svg', alt='Texto que describa la imagen')  
+        figcaption Fuente: Sena (2024).
 
     p.mb-5 En los metales de transición encontramos los elementos y los puntos de fusión:
 
@@ -144,7 +147,7 @@
           .col-md-5.mb-md-4
             figure.mb-4
               img(src='@/assets/curso/temas/tema2/img-8.png')
-          .col-lg-7.mb-4.mb-md-0.px-lg-5
+          .col-xl-7.mb-4.mb-md-0.px-lg-5
             .titulo-sexto.c-r
               h5.text-white Tabla 1. 
               span.text-white Tabla periodico
@@ -177,7 +180,7 @@
           .col-md-5
             figure.mb-4
               img(src='@/assets/curso/temas/tema2/img-8.png')
-          .col-md-7.mb-4.mb-md-0.px-lg-5
+          .col-xl-7.mb-4.mb-md-0.px-lg-5
             .titulo-sexto.c-r
               h5.text-white Tabla 2. 
               span.text-white Punto de fusión de metales aleados de oro y plata
@@ -204,7 +207,7 @@
           .col-md-5
             figure.mb-4
               img(src='@/assets/curso/temas/tema2/img-8.png')
-          .col-md-7.mb-4.mb-md-0.px-lg-5
+          .col-xl-7.mb-4.mb-md-0.px-lg-5
             .titulo-sexto.c-r
               h5.text-white Tabla 3.
               span.text-white Oro y Cobre
@@ -232,7 +235,7 @@
           .col-md-5
             figure.mb-4
               img(src='@/assets/curso/temas/tema2/img-8.png')
-          .col-md-7.mb-4.mb-md-0.px-lg-5
+          .col-xl-7.mb-4.mb-md-0.px-lg-5
             .titulo-sexto.c-r
               h5.text-white Tabla 4. 
               span.text-white Oro y Platino
@@ -260,7 +263,7 @@
           .col-md-5.py-md-4
             figure.mb-4
               img(src='@/assets/curso/temas/tema2/img-8.png')
-          .col-md-7.mb-4.mb-md-0.px-lg-5
+          .col-xl-7.mb-4.mb-md-0.px-lg-5
             .titulo-sexto.c-r
               h5.text-white Tabla 5. 
               span.text-white Oro y Paladio
@@ -361,7 +364,7 @@
           span Contextualización hacia las propiedades de los metales
         figure
           img(src='@/assets/curso/temas/tema2/img-17.png', alt='Texto que describa la imagen')  
-
+          figcaption Fuente. L. Bolívar (2016).
 
 
 </template>

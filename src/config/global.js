@@ -96,7 +96,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/84240189 _CF001_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -116,13 +116,13 @@ export default {
         'Documento sectorial metales y piedras preciosas, joyería y bisutería.',
       referencia: 'Cadena productiva de la industria de la joyería',
       tipo: 'PDF',
-      link: 'https://repositorio.artesaniasdecolombia.com.co/handle/001/459',
+      descarga: '/downloads/INST-D 2003. 167.pdf',
     },
     {
       tema: 'Documento cadena productiva de la joyería.',
       referencia: 'Artesanías de Colombia',
       tipo: 'PDF',
-      link: 'https://repositorio.artesaniasdecolombia.com.co/handle/001/945',
+      link: '/downloads/INST-D 2002. 97.pdf',
     },
     {
       tema: 'Metales preciosos y aleaciones para joyería.',
@@ -133,7 +133,7 @@ export default {
   ],
   glosario: [
     {
-      termino: 'Baños Galvánico',
+      termino: 'Baños Galvánicos',
       significado:
         'los procesos de recubrimientos electrolíticos o químicos consisten en depositar por vía electroquímica finas capas de metal sobre la superficie de una pieza sumergida en una solución de iones metálicos o electrolito.',
     },
@@ -205,7 +205,6 @@ export default {
     {
       referencia:
         'Real Decreto 197-1988 legislacionespanola.leyderecho.org Retrieved 12, 2016.',
-      link: 'http://legislacionespanola.leyderecho.org/ ',
     },
   ],
   creditos: [

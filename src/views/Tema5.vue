@@ -1,7 +1,7 @@
 <template lang="pug">
 .curso-main-container.pb-3
   BannerInterno
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
+  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5.fnd-144-
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 5
@@ -11,7 +11,7 @@
     figure.mb-5(data-aos="zoom-in")
       img(src='@/assets/curso/temas/tema5/img-1.jpg', alt='Texto que describa la imagen')
 
-    .row.justify-content-center.align-items-center.mb-4.fnd-13.lnd-t(data-aos="fade-right")
+    .row.justify-content-center.align-items-center.mb-4.lnd-t(data-aos="fade-right")
       .col-lg-8.mb-4
         LineaTiempoD.color-acento-botones
           .row(numero="1" titulo="Aderezo") 
@@ -25,7 +25,7 @@
       .col-lg-4.col-md-8
         figure
           img(src='@/assets/curso/temas/tema5/img-2.jpg', alt='Texto que describa la imagen')            
-    .row.justify-content-center.align-items-center.mb-4.fnd-14.lnd-t(data-aos="fade-left")
+    .row.justify-content-center.align-items-center.mb-4.lnd-t(data-aos="fade-left")
       .col-lg-4.col-md-8.order-2.order-lg-1
         figure
           img(src='@/assets/curso/temas/tema5/img-8.jpg', alt='Texto que describa la imagen')     
@@ -39,7 +39,7 @@
             p pieza de ágata, ónix, sardonix, ópalo, conchas de capas multicolores, etc. tallada en bajorrelieve, en la que la figura o el motivo suelen tener distinta coloración que la base. Para que sea realmente una joya deberá ir orlada con oro y a veces con piedras preciosas. Se ha utilizado en sortijas, pendientes, broches, colgantes y hasta en collares.
           .row(numero="8" titulo="Colgante") 
             p el término es relativamente moderno, y en parte ha suplantado al antiguo de pinjante, aunque hay entre ambos matices especiales. Por otra parte, la diferencia entre colgante y broche es también muy sutil, pues consiste solamente en estar suspendido y no prendido. Puede ser tanto un ornamento del vestido, a la altura del escote, o ir situado sobre la misma piel.
-    .row.justify-content-center.align-items-center.mb-3.fnd-13.lnd-t(data-aos="fade-right")
+    .row.justify-content-center.align-items-center.mb-3.lnd-t(data-aos="fade-right")
       .col-lg-8.mb-4
         LineaTiempoD.color-acento-botones            
           .row(numero="9" titulo="Collar") 
@@ -53,7 +53,7 @@
       .col-lg-4.col-md-8
         figure
           img(src='@/assets/curso/temas/tema5/img-7.jpg', alt='Texto que describa la imagen')     
-    .row.justify-content-center.align-items-center.mb-3.fnd-14.lnd-t(data-aos="fade-left")
+    .row.justify-content-center.align-items-center.mb-3.lnd-t(data-aos="fade-left")
       .col-lg-4.col-md-8.order-2.order-lg-1
         figure.mb-4
           img.titulo-Esclava(src='@/assets/curso/temas/tema5/img-17.jpg', alt='Texto que describa la imagen')         

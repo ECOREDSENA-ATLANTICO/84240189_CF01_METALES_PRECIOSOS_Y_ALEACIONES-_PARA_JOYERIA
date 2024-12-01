@@ -8,7 +8,7 @@
       h1 Los metales 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-4.col-md-10
+      .col-lg-4.col-md-8
         figure.mb-5
           img(src='@/assets/curso/temas/tema1/img-1.png', alt='Texto que describa la imagen')  
       .col-lg-8
@@ -33,7 +33,7 @@
     .tarjeta.tarjeta--azul.p-5.mb-5.fnd-3(data-aos="fade-left")
       SlyderA(tipo="b")
         .row.p-xl-5.justify-content-center.align-items-center
-          .col-xl-3.col-lg-4.col-md-10
+          .col-xl-3.col-lg-4.col-md-8
             figure.mb-4
               img(src='@/assets/curso/temas/tema1/img-3.png', alt='Texto que describa la imagen')
           .col-xl-9.col-lg-11.mb-4.mb-md-0
@@ -54,7 +54,7 @@
             p En la actualidad, la mayor parte del oro es extraído de minerales que lo contienen en proporción ínfima; también, se lo extrae de otros metales al refinarlos, como por ejemplo el cobre. El oro ha sido el primer metal conocido por el ser humano, que en los tiempos prehistóricos sirvió para confeccionar adornos personales.
 
         .row.p-xl-5.justify-content-center.align-items-center
-          .col-xl-3.col-lg-4.col-md-10
+          .col-xl-3.col-lg-4.col-md-8
             figure.mb-4
               img(src='@/assets/curso/temas/tema1/img-6.png', alt='Texto que describa la imagen')
           .col-xl-9.col-lg-11.mb-4.mb-md-0
@@ -74,14 +74,14 @@
                 p.mb-0 Punto de fusión (ºC) ..................1769
 
         .row.p-xl-5.justify-content-center.align-items-center
-          .col-xl-3.col-lg-4.col-md-10
+          .col-xl-3.col-lg-4.col-md-8
             figure.mb-4
               img(src='@/assets/curso/temas/tema1/img-5.png', alt='Texto que describa la imagen')
           .col-xl-9.col-lg-11.mb-4.mb-md-0
             h5 Paladio
             p Es un metal de transición del grupo de platino Es un metal de transición del grupo del platino, blando, dúctil, maleable y poco abundante. Se parece químicamente al platino y se extrae de algunas minas de cobre y níquel. Se encuentra libre en arenas y gravas que pueden contener por encima del 1.4% de paladio. En estado combinado acompaña a minerales como el níquel, cobre y zinc e los que se extrae como subproducto.
         .row.p-xl-5.justify-content-center.align-items-center
-          .col-xl-3.col-lg-4.col-md-10.mb-4
+          .col-xl-3.col-lg-4.col-md-8.mb-4
             figure
               img(src='@/assets/curso/temas/tema1/img-8.png', alt='Texto que describa la imagen')
           .col-xl-9.col-lg-11.mb-4.mb-md-0
@@ -90,7 +90,7 @@
             p El rodio no se disuelve en ácidos, aunque si se encuentra finamente dividido, puede disolverse en agua regia y en ácido sulfúrico concentrado caliente.
 
         .row.p-xl-5.justify-content-center.align-items-center
-          .col-xl-3.col-lg-4.col-md-10
+          .col-xl-3.col-lg-4.col-md-8
             figure.mb-4
               img(src='@/assets/curso/temas/tema1/img-4.png', alt='Texto que describa la imagen')
           .col-xl-9.col-lg-12.mb-4.mb-md-0
@@ -116,7 +116,7 @@
       TabsA.color-acento-botones.mb-5
         .tarjeta.fnd-4.p-4(titulo="Tumbaga")
           .row.justify-content-center.align-items-center
-            .col-lg-6
+            .col-xl-6
               p La tumbaga es una aleación amarillo-rojiza de 8% de Cu y de 15% de Zn. Su punto de fusión es de 990°C, y su peso específico es de 8,7. Debido a su maleabilidad y color dorado, la tumbaga se ha llegado a usar profusamente en la industria de las alhajas de fantasía imitaciones de oro. Dentro de la artesanía artística nos brinda un buen material para fabricar objetos de mayor tamaño y trabajo sencillos con esmalte.
 
             .col-lg-6
@@ -124,21 +124,21 @@
                 img(src='@/assets/curso/temas/tema1/img-9.png', alt='Texto que describa la imagen')
         .tarjeta.fnd-4.p-4(titulo="Latón")
           .row.justify-content-center.align-items-center
-            .col-lg-6
+            .col-xl-6
               p El latón es una aleación amarilla o amarillo verdosa, compuesta por cobre y Zinc. Desde tiempos antiguos se ha utilizado para fabricar objetos de adornos utilitarios. Dentro de la orfebrería se puede realizar con latón: candelabros, lamparillas de pared, cortapapeles, cuencos, bandejas. La aleación más maleable es el latón laminado 67 Cu y 33 Zn.
             .col-lg-6
               figure
                 img(src='@/assets/curso/temas/tema1/img-10.png', alt='Texto que describa la imagen')
         .tarjeta.fnd-4.p-4(titulo="Alpaca")
           .row.justify-content-center.align-items-center
-            .col-lg-6
+            .col-xl-6
               p La Alpaca es el nombre común para aleaciones constituidas por Cu, Ni, Zn y no debe ser confundida con la plata. Su nombre nació en épocas antiguas, cuando se planteaban objetos en bronce. El mismo método se usa actualmente para la alpaca. (Todos los objetos de alpaca que se venden son plateados). Argentan, alpaca, packfung, son algunos de los nombres de las aleaciones de la alpaca existentes en el mercado, de color blanco. Debido a su contenido de níquel. La alpaca es dura para trabajar, pero permite ser moldeadla en frio y en caliente. Se recose a 600-700°. Su punto de fusión es de 990° y su peso específico es 8,7.
             .col-lg-6
               figure
                 img(src='@/assets/curso/temas/tema1/img-11.png', alt='Texto que describa la imagen')
         .tarjeta.fnd-4.p-4(titulo="Tabla periódica")
           .row.justify-content-center.align-items-center
-            .col-lg-6
+            .col-xl-6
               p La tabla periódica es una disposición de los elementos químicos organizados según sus propiedades y características comunes. Está estructurada en filas y columnas que reflejan tendencias en propiedades físicas, químicas y atómicas de los elementos. Además, nos permite contextualizar los metales de transición y su ubicación.
             .col-lg-6
               figure

@@ -20,7 +20,7 @@
       .col.px-0
         h2.mb-0 Níquel
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-4.col-md-8.p-lg-5
+      .col-lg-4.col-md-6.p-lg-5
         figure.mb-4
           img(src='@/assets/curso/temas/tema4/img-2.png', alt='Texto que describa la imagen')
       .col-lg-8
@@ -52,7 +52,7 @@
           .row(numero="3" titulo="Usos interesantes") 
             p Prácticamente forma parte de todas las aleaciones de oro, plata y platino. Bajo forma de sales también suele formar parte de la composición de algunos baños de oro de color. Forma parte de la composición de muchas soldaduras para metales preciosos. En bisutería fabricada con ZamaK, los baños de cobre alcalino y acido constituyen una fase intermedia para los posteriores de níquel y dorado y plateado. Aleado con zinc da lugar a una amplia gama de latones entre los que se encuentra el Tombak y el similor. Aleado con estaño da lugar a una amplia gama de bronces.
 
-      .col-lg-4.col-md-8.p-lg-5
+      .col-lg-4.col-md-6.p-lg-5
         figure.mb-4
           img(src='@/assets/curso/temas/tema4/img-3.png', alt='Texto que describa la imagen')
 
@@ -125,7 +125,7 @@
         h2.mb-0 Estaño	
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
-      .col-lg-3.col-md-8
+      .col-lg-3.col-md-6
         figure.mb-4
           img(src='@/assets/curso/temas/tema4/img-7.png', alt='Texto que describa la imagen')
 
@@ -133,9 +133,9 @@
         LineaTiempoD.color-acento-botones
           .row(numero="1" titulo="Propiedades químicas") 
             p Al aire no se oxida en estado sólido, lo hace superficialmente en estado líquido a relativamente.
-          .row(numero="1" titulo="alta temperatura") 
+          .row(numero="2" titulo="alta temperatura") 
             p El estaño fundido disuelve la mayoría de metales para formar aleaciones. Se alea perfectamente con el cobre, zinc, bismuto, plomo, cadmio, plata y platino. Es difícil de alear con el hierro.
-          .row(numero="1" titulo="Usos interesantes") 
+          .row(numero="3" titulo="Usos interesantes") 
             p En joyería se utiliza, aleado con otros metales, para soldadura de bajo punto de fusión, que no pueden realizar por otro medio.
     .row.pe-lg-3.justify-content-center.mb-4(data-aos="fade-left")
       .col-auto.pe-2.mt-1
@@ -148,11 +148,11 @@
         LineaTiempoD.color-acento-botones
           .row(numero="1" titulo="Solubilidad: agua regia es soluble") 
             p Ácido sulfúrico: soluble en concentrado y caliente, más soluble cuanto más concentrado. Ácidos Clorhídrico y nítrico: inatacable. Vapores de metales alcalinos fácilmente atacable.  Aleado con plata, es atacado por el ácido nítrico y por el sulfúrico concentrado. No se oxida al aire en estado puro, pero si estando en forma de negro de platino finamente dividido. Se alea con la mayoría de los metales, especialmente con el resto de los metales preciosos y el cobre y níquel, así como con el arsénico y el hierro. En caliente se combina con el azufre y con el fosforo.
-          .row(numero="1" titulo="Propiedades mecánicas") 
+          .row(numero="2" titulo="Propiedades mecánicas") 
             p Es uno de los metales más dúctiles que existen, aventajándolo únicamente el oro y la plata. Puede estirarse en alambres sumamente finos y batirse en hojas muy delgadas. Es blanda y extensible, rayándose con suma facilidad; por martillado, laminado y estirado se vuelve mucho más duro, un recocido apropiado lo hace otra vez blando. Modifica profundamente sus propiedades en presencia de unas pocas milésimas de otros metales. Hasta su brillo pasa rápidamente a gris opaco. El oro endurece el platino volviéndolo frágil. El paladio lo endurece un poco y el iridio es su mejor endurecedor.
-          .row(numero="1" titulo="Usos interesantes") 
+          .row(numero="3" titulo="Usos interesantes") 
             p El platino bajo forma de baño de chapado, se utiliza para recubrir los ánodos de titanio. Antes de la aparición del oro blanco, era prácticamente el único metal que acompañaba a los diamantes y brillantes. En la actualidad, se utiliza cada vez menos por dos razones fundamentadas: por su precio y porque cada vez son menos los joyeros que los saben trabajar. También es importante su utilización en algunos utensilios de laboratorio. Son aleaciones interesantes: platino/iridio, platino/paladio, platino/osmio, platino/rodio, platino/rutenio, platino/plata, platino/cobre. La aleación platino/oro con poca proporción de oro tiene un aspecto feo, es dura y frágil, en cambio el oro con el 10% a 15% de platino tiene una notable resistencia mecánica y física.
-      .col-lg-3.col-md-8
+      .col-lg-3.col-md-6
         figure.mb-4
           img(src='@/assets/curso/temas/tema4/img-8.png', alt='Texto que describa la imagen')
 
