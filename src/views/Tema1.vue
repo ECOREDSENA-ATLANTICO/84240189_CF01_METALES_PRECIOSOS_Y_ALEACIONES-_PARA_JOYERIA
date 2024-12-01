@@ -10,9 +10,9 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-4.col-md-8
         figure.mb-5
-          img(src='@/assets/curso/temas/tema1/img-1.png', alt='Texto que describa la imagen')  
+          img(src='@/assets/curso/temas/tema1/img-1.png')  
       .col-lg-8
-       p Se llaman metales preciosos a los que se encuentran en estado libre en la naturaleza. Por ejemplo, el oro es bastante frecuente encontrarlo en forma de pepitas en los depósitos aluviales originados por la disgregación de las rocas donde se encuentra incluido. En Joyería, los metales preciosos suelen ser el oro (Au), la plata (Ag), el paladio (Pd), el platino (Pt) y el Rodio (Rh). Una de las características de una joya es su durabilidad y por eso se usan los materiales más nobles. 
+       p Se llaman metales preciosos a los que se encuentran en estado libre en la naturaleza. Por ejemplo, el oro es bastante frecuente encontrarlo en forma de pepitas en los depósitos aluviales originados por la disgregación de las rocas donde se encuentra incluido. En Joyería, los metales preciosos suelen ser el oro (Au), la plata (Ag), el paladio (Pd), el platino (Pt) y el rodio (Rh). Una de las características de una joya es su durabilidad y por eso se usan los materiales más nobles. 
        .cajon.color-primario.p-4.mb-4.fnd-1
         p.mb-0.text-white Se utilizan aleaciones (combinación de dos a más metales) porque los metales nobles no presentan todas las cualidades mecánicas para la orfebrería, la joyería o la bisutería.
 
@@ -35,13 +35,13 @@
         .row.p-xl-5.justify-content-center.align-items-center
           .col-xl-3.col-lg-4.col-md-8
             figure.mb-4
-              img(src='@/assets/curso/temas/tema1/img-3.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema1/img-3.png')
           .col-xl-9.col-lg-11.mb-4.mb-md-0
             h5 Oro
             p El oro se encuentra en estado nativo en yacimientos minerales de muy diversas clases, en aluviones, en arenas, fluviales, etc. En granos o pepitas, que en algunos casos son de gran tamaño, otras en agujas, pajuelas o polvo.
-            .row.mb-4.justify-content-center
+            .row.mb-4.justify-content-center.t-end.pe-lg-5.pe-md-0
               .col-md-6
-                p.mb-0 Símbolo Químico ..............Au                               
+                p.mb-0.text-center Símbolo Químico ..............Au                               
                 p.mb-0 Número atómico ...............79
                 p.mb-0 Valencia ............................1,3          
                 p.mb-0 Estado de oxidación .........+1  
@@ -56,7 +56,7 @@
         .row.p-xl-5.justify-content-center.align-items-center
           .col-xl-3.col-lg-4.col-md-8
             figure.mb-4
-              img(src='@/assets/curso/temas/tema1/img-6.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema1/img-6.png')
           .col-xl-9.col-lg-11.mb-4.mb-md-0
             h5 Platino
             .row.justify-content-center
@@ -76,14 +76,14 @@
         .row.p-xl-5.justify-content-center.align-items-center
           .col-xl-3.col-lg-4.col-md-8
             figure.mb-4
-              img(src='@/assets/curso/temas/tema1/img-5.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema1/img-5.png')
           .col-xl-9.col-lg-11.mb-4.mb-md-0
             h5 Paladio
             p Es un metal de transición del grupo de platino Es un metal de transición del grupo del platino, blando, dúctil, maleable y poco abundante. Se parece químicamente al platino y se extrae de algunas minas de cobre y níquel. Se encuentra libre en arenas y gravas que pueden contener por encima del 1.4% de paladio. En estado combinado acompaña a minerales como el níquel, cobre y zinc e los que se extrae como subproducto.
         .row.p-xl-5.justify-content-center.align-items-center
           .col-xl-3.col-lg-4.col-md-8.mb-4
             figure
-              img(src='@/assets/curso/temas/tema1/img-8.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema1/img-8.png')
           .col-xl-9.col-lg-11.mb-4.mb-md-0
             h5 Rodio
             p Es un metal de color blanco, duro, pero considerablemente menos dúctil que el platino, pero más que otros metales que pertenecen al grupo 9 de la tabla periódica. Es un metal de transición, muy reflectante, resistente a la corrosión y muy duradero, no se encuentra en abundancia en la naturaleza, pero es posible encontrarlo en su estado natural en minas de platino, y en la arena de ríos ubicadas en los montes Urales, en América del Sur y Norteamérica. 
@@ -92,7 +92,7 @@
         .row.p-xl-5.justify-content-center.align-items-center
           .col-xl-3.col-lg-4.col-md-8
             figure.mb-4
-              img(src='@/assets/curso/temas/tema1/img-4.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema1/img-4.png')
           .col-xl-9.col-lg-12.mb-4.mb-md-0
             h5 El Cobre
             p Es uno de los metales de transición e importante metal no ferroso. Su utilidad se debe a la combinación de sus propiedades químicas, físicas y mecánicas, así como a sus propiedades eléctricas y su abundancia. El cobre fue uno de los primeros metales usados por los humanos.
@@ -121,28 +121,22 @@
 
             .col-lg-6
               figure
-                img(src='@/assets/curso/temas/tema1/img-9.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/img-9.png')
         .tarjeta.fnd-4.p-4(titulo="Latón")
           .row.justify-content-center.align-items-center
             .col-xl-6
               p El latón es una aleación amarilla o amarillo verdosa, compuesta por cobre y Zinc. Desde tiempos antiguos se ha utilizado para fabricar objetos de adornos utilitarios. Dentro de la orfebrería se puede realizar con latón: candelabros, lamparillas de pared, cortapapeles, cuencos, bandejas. La aleación más maleable es el latón laminado 67 Cu y 33 Zn.
             .col-lg-6
               figure
-                img(src='@/assets/curso/temas/tema1/img-10.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/img-10.png')
         .tarjeta.fnd-4.p-4(titulo="Alpaca")
           .row.justify-content-center.align-items-center
             .col-xl-6
-              p La Alpaca es el nombre común para aleaciones constituidas por Cu, Ni, Zn y no debe ser confundida con la plata. Su nombre nació en épocas antiguas, cuando se planteaban objetos en bronce. El mismo método se usa actualmente para la alpaca. (Todos los objetos de alpaca que se venden son plateados). Argentan, alpaca, packfung, son algunos de los nombres de las aleaciones de la alpaca existentes en el mercado, de color blanco. Debido a su contenido de níquel. La alpaca es dura para trabajar, pero permite ser moldeadla en frio y en caliente. Se recose a 600-700°. Su punto de fusión es de 990° y su peso específico es 8,7.
+              p La alpaca es el nombre común para aleaciones constituidas por Cu, Ni, Zn y no debe ser confundida con la plata. Su nombre nació en épocas antiguas, cuando se planteaban objetos en bronce. El mismo método se usa actualmente para la alpaca. (Todos los objetos de alpaca que se venden son plateados). argentan, alpaca, packfung, son algunos de los nombres de las aleaciones de la alpaca existentes en el mercado, de color blanco. Debido a su contenido de níquel. La alpaca es dura para trabajar, pero permite ser moldeadla en frio y en caliente. Se recose a 600-700°. Su punto de fusión es de 990° y su peso específico es 8,7.
             .col-lg-6
               figure
-                img(src='@/assets/curso/temas/tema1/img-11.png', alt='Texto que describa la imagen')
-        .tarjeta.fnd-4.p-4(titulo="Tabla periódica")
-          .row.justify-content-center.align-items-center
-            .col-xl-6
-              p La tabla periódica es una disposición de los elementos químicos organizados según sus propiedades y características comunes. Está estructurada en filas y columnas que reflejan tendencias en propiedades físicas, químicas y atómicas de los elementos. Además, nos permite contextualizar los metales de transición y su ubicación.
-            .col-lg-6
-              figure
-                img(src='@/assets/curso/temas/tema1/img-10.png', alt='Texto que describa la imagen')
+                img(src='@/assets/curso/temas/tema1/img-11.png')
+
 
 
 </template>

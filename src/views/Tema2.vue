@@ -10,7 +10,7 @@
     .row.justify-content-center.align-items-center.px-5.px-md-5.py-3
       .col-lg-3.col-md-8
         figure
-          img(src='@/assets/curso/temas/tema2/img-1.png', alt='Texto que describa la imagen')    
+          img(src='@/assets/curso/temas/tema2/img-1.png')    
       .col-lg-9.mt-4          
         p Los metales de transición o elementos de transición son aquellos situados en la parte central del sistema periódico, en el bloque D, ya que en todos ellos su orbital D, está ocupado por electrones en mayor o menor medida. 
   .container.tarjeta.tarjeta--blanca.px-4.px-md-5.fnd-4-2-       
@@ -47,12 +47,12 @@
             p.mb-0 Sólidos a temperatura ambiente excepto el Mercurio (Hg).
       .col-lg-5
         figure
-          img(src='@/assets/curso/temas/tema2/img-2.png', alt='Texto que describa la imagen')   
+          img(src='@/assets/curso/temas/tema2/img-2.png')   
   .container.tarjeta.fnd-4
     .row.justify-content-center.align-items-center.fnd-4.px-5.py-4(data-aos="fade-left")
       .col-lg-5.col-md-8.mb-4
         figure
-          img(src='@/assets/curso/temas/tema2/img-3.png', alt='Texto que describa la imagen')    
+          img(src='@/assets/curso/temas/tema2/img-3.png')    
       .col-lg-7          
         .row.pe-lg-3.justify-content-center
           .col-auto.pe-2.mt-2
@@ -101,12 +101,12 @@
 
       .col-lg-5.col-md-8.order-lg-2.order-1
         figure.mt-4
-          img(src='@/assets/curso/temas/tema2/img-4.svg', alt='Texto que describa la imagen') 
+          img(src='@/assets/curso/temas/tema2/img-4.svg') 
   .container.tarjeta.fnd-4
     .row.justify-content-center.align-items-center.fnd-4.px-5.py-4(data-aos="zoom-in")
       .col-lg-5.col-md-8.mb-4
         figure
-          img(src='@/assets/curso/temas/tema2/img-5.png', alt='Texto que describa la imagen')    
+          img(src='@/assets/curso/temas/tema2/img-5.png')    
       .col-lg-7       
         .row.pe-lg-3.justify-content-center
           .col-auto.pe-2.mt-2
@@ -117,7 +117,7 @@
           .col-auto.pe-2.mt-2
             img(src="@/assets/curso/temas/tema2/check.svg")
           .col.px-0
-            p.mb-0 Los compuestos de los metales de transición suelen ser coloreados, como el Hierro y el Níquel que cambian también su color. Con el Vanadio, todos los colores son distintos con cada número de oxidación.
+            p.mb-0 Los compuestos de los metales de transición suelen ser coloreados, como el hierro y el níquel que cambian también su color. Con el vanadio, todos los colores son distintos con cada número de oxidación.
         .row.pe-lg-3.justify-content-center
           .col-auto.pe-2.mt-2
             img(src="@/assets/curso/temas/tema2/check.svg")
@@ -130,13 +130,14 @@
             p.mb-0 Se hidrolizan con facilidad.
   .container.tarjeta.tarjeta--blanca.px-4.px-md-5.fnd-4-2 
     .row.justify-content-center.align-items-center.mb-5.mt-4(data-aos="fade-right")
+      p.mb-4 La tabla periódica es una disposición de los elementos químicos organizados según sus propiedades y características comunes. Está estructurada en filas y columnas que reflejan tendencias en propiedades físicas, químicas y atómicas de los elementos. Además, nos permite contextualizar los metales de transición y su ubicación.
       .col-lg-10
         .titulo-sexto.c-r
           h5 Figura 1. 
           span Tabla periodico
         figure
-          img(src='@/assets/curso/temas/tema2/img-7.svg', alt='Texto que describa la imagen')  
-        figcaption Fuente: Sena (2024).
+          img(src='@/assets/curso/temas/tema2/img-7.png', alt='En la figura se muestra la tabla periódica.')  
+        figcaption Fuente: stock.adobe.
 
     p.mb-5 En los metales de transición encontramos los elementos y los puntos de fusión:
 
@@ -298,12 +299,12 @@
           p.mb-0 Durante mucho tiempo la utilización de aditivos en la formulación de aleaciones era considerada como secreto industrial, y por ende este ámbito no es muy difundido en especial entre los pequeños y medianos productores de joyas, sin embargo, el uso de aditivos explica en gran parte el por qué ciertas aleaciones tienen desempeños superiores que otras, siendo que ambas utilizan los mismos componentes principales en la liga. Clasificación de los aditivos utilizados en aleaciones de metales preciosos. Los aditivos pueden ser tanto elementos metálicos, como elementos no metálicos y pueden ser clasificados de la siguiente forma:
       .col-lg-4.col-md-8.order-lg-2.order-1
         figure.mb-4
-          img(src='@/assets/curso/temas/tema2/img-13.png', alt='Texto que describa la imagen') 
+          img(src='@/assets/curso/temas/tema2/img-13.png') 
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-4.col-md-8
         figure.mb-4
-          img(src='@/assets/curso/temas/tema2/img-14.svg', alt='Texto que describa la imagen') 
+          img(src='@/assets/curso/temas/tema2/img-14.svg') 
       .col-lg-8
         LineaTiempoD.color-acento-botones
           .row(numero="1" titulo="Desoxidantes") 
@@ -346,7 +347,7 @@
             p.mb-0 Restos y bolitas que quedan en la cuchara o crisol.
       .col-lg-5
         figure
-          img(src='@/assets/curso/temas/tema2/img-15.png', alt='Texto que describa la imagen') 
+          img(src='@/assets/curso/temas/tema2/img-15.png') 
 
 
 
@@ -363,7 +364,7 @@
           h5 Figura 2. 
           span Contextualización hacia las propiedades de los metales
         figure
-          img(src='@/assets/curso/temas/tema2/img-17.png', alt='Texto que describa la imagen')  
+          img(src='@/assets/curso/temas/tema2/img-17.png', alt='Se describe en la figura la contextualización hacia las propiedades de los metales en títulos en milésimas y kilates, el metal, la ley 1000 y 24 k y las conversiones  de metales en joyería y las piezas de joyería.')  
           figcaption Fuente. L. Bolívar (2016).
 
 

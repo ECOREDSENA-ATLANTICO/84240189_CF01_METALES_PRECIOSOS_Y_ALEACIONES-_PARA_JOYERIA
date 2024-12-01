@@ -13,21 +13,21 @@
           p Los metales preciosos, salvo casos muy especiales, se trabajan siempre aleados con otros metales, nobles o no, para conferirles las propiedades químicas o mecánicas necesarias. Por otra parte, a pesar de la técnica actual, no es posible obtener ningún metal Totalmente puro. Todos los metales, que normalmente se aceptan como puros, contienen una cierta cantidad de impurezas. Estas impurezas son, a veces de unas pocas partes por millón, pero son suficientes para influir en algunas de las propiedades del metal que las contiene.
       .col-lg-4.col-md-8
         figure.mb-4
-          img(src='@/assets/curso/temas/tema3/img-1.png', alt='Texto que describa la imagen') 
+          img(src='@/assets/curso/temas/tema3/img-1.png') 
 
     .tarjeta.tarjeta--azul.p-5.mb-5.fnd-3(data-aos="fade-left")
       SlyderA(tipo="b")
         .row.pd-5.justify-content-center.align-items-center
           .col-xl-4.col-lg-4.col-md-8
             figure.mb-4
-              img(src='@/assets/curso/temas/tema3/img-2.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema3/img-2.png')
           .col-xl-8
             h2 El título 
             p Para valorar la pureza relativa de un metal o para indicar en que proporciones se encuentran aleadas, se utiliza el título. Actualmente, para todos los metales en general, el título se da siempre en milésimas, pero, excepcionalmente, para el oro también se da en kilates.
         .row.pd-5.justify-content-center.align-items-center
           .col-xl-4.col-lg-4.col-md-8
             figure.mb-4
-              img(src='@/assets/curso/temas/tema3/img-3.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema3/img-3.png')
           .col-xl-8
             h2 Las milésimas	
             p Un metal hipotéticamente puro sería de 1000 milésimas. Es decir, que de las mil partes que forman el todo, todas corresponderían al metal en cuestión y ninguna a otro cuerpo extraño o a impurezas. Cuando se refiere a título, la milesia es una unidad de calidad. De una manera muy tosca, y generalizando quizás demasiado, se podría decir que los títulos superiores a 995 milésimas corresponden a metales considerados comercialmente puros y los inferiores a 995 ya son prácticamente aleaciones.
@@ -35,17 +35,17 @@
         .row.pd-5.justify-content-center.align-items-center
           .col-xl-4.col-lg-4.col-md-8
             figure.mb-4
-              img(src='@/assets/curso/temas/tema3/img-4.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema3/img-4.png')
           .col-xl-8.mb-4.mb-md-0
             h2 Los kilates 
             p Otra forma de denominar el título de una aleación de oro es por kilates. El kiltate es 1/24 y su aplicación en el título es mucho menos precisa que las milésimas. Por este motivo los kilates se utilizan solo para las aleaciones y no sirven para determinar impurezas. 
         .row.pd-5.justify-content-center.align-items-center
           .col-xl-4.col-lg-4.col-md-8
             figure.mb-4
-              img(src='@/assets/curso/temas/tema3/img-5.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema3/img-5.png')
           .col-xl-8
             h2 Determinación del título o ley en milésimas	
-            p Vamos a suponer que tenemos un lingote, de una aleación de oro, con un peso total de 825 grs y sabemos que, de esta cantidad, 700 grs corresponden al oro puro que contiene. Con estos datos ya estamos en condiciones de poder determinar el título del lingote y para ello aplicaremos la siguiente fórmula. 
+            p Vamos a suponer que tenemos un lingote, de una aleación de oro, con un peso total de 825 g y sabemos que, de esta cantidad, 700 g corresponden al oro puro que contiene. Con estos datos ya estamos en condiciones de poder determinar el título del lingote y para ello aplicaremos la siguiente fórmula. 
             .row.justify-content-center.align-items-center
               .col-auto.mb-3
                 h3.mb-0.fnd-9 TITULO =(Peso del metal puro)/(Peso total del lingotes)
@@ -58,7 +58,7 @@
         .row.pd-5.justify-content-center.align-items-center
           .col-xl-4.col-lg-4.col-md-8
             figure.mb-4
-              img(src='@/assets/curso/temas/tema3/img-6.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema3/img-6.png')
           .col-xl-8
             h2 Conversión de milésimas a kilates 
             p Como se indicó anteriormente, 1 kilate corresponde a 1/24. Vamos a averiguar cuantas milésimas equivale a 1 kilate. Lo haremos de la forma siguiente: 
@@ -72,7 +72,7 @@
         .row.pd-5.justify-content-center.align-items-center
           .col-xl-4.col-lg-4.col-md-8
             figure.mb-4
-              img(src='@/assets/curso/temas/tema3/img-7.png', alt='Texto que describa la imagen')
+              img(src='@/assets/curso/temas/tema3/img-7.png')
           .col-xl-8
             h2 Conversión de kilates a milésimas	
             p Para transformar los kilates en milésimas tendremos que multiplicar el número de kilates por 41,666. 
@@ -90,7 +90,7 @@
           h5 Figura 3. 
           span Tabla Kilates.
         figure
-          img(src='@/assets/curso/temas/tema3/img-8-.png', alt='Tabla Kilates.')  
+          img(src='@/assets/curso/temas/tema3/img-8-.png', alt='Se describe con un ejemplo de lingotes de oro, la cantidad del fino y se formula para saber la cantidad en gramos.')  
           figcaption Fuente: Sena (2024). 
     .row.align-items-center(data-aos="zoom-in")
       .col-auto.mb-3
@@ -104,7 +104,7 @@
           h5 Figura 4. 
           span Tabla Kilates.
         figure
-          img(src='@/assets/curso/temas/tema3/img-9-.png', alt='Tabla Kilates.')  
+          img(src='@/assets/curso/temas/tema3/img-9-.png', alt='Se muestra un ejemplo para saber la cantidad de aleación que contenga 50 grs de oro fino.')  
           figcaption Fuente: Sena (2024).
 
 </template>

@@ -9,7 +9,7 @@
     .row.justify-content-center.align-items-center.mb-3.fnd-10(data-aos="zoom-in")
       .col-xl-3.col-lg-4.col-md-8
         figure.mb-4
-          img(src='@/assets/curso/temas/tema4/img-1.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema4/img-1.png')
       .col-lg-8
         p La química está basada en el estudio de los 103 elementos primarios, conocidos hasta la fecha. Son simples cuando se encuentran en estado puro y compuestos cuando están mezclados entre sí. Aquí estudiaremos algunos, sin los cuales, no podría existir la joyería tal como la conocemos. Cada uno aparte de sus características atómicas, posee propiedades concretas que lo diferencia de los demás y, cuando se mezclan entre sí, estas propiedades cambian.<b> Todos los metales que se van a tratar son metales, unos nobles y otros no, pero cada uno juega una función determinada en el contexto:</b>
 
@@ -22,7 +22,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-4.col-md-6.p-lg-5
         figure.mb-4
-          img(src='@/assets/curso/temas/tema4/img-2.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema4/img-2.png')
       .col-lg-8
         LineaTiempoD.color-acento-botones
           .row(numero="1" titulo="Propiedades químicas") 
@@ -50,22 +50,22 @@
           .row(numero="2" titulo="Propiedades mecánicas")
             p Las propiedades del cobre comercial Están muy influenciadas por el trabajo al que se someta y por ciertas impurezas que, entre ciertos límites, pueden a veces mejorarlas mientras que en otros casos las empeoran. El cobre recocido no tiene límite práctico de alargamiento. Sometido a la acción de pequeños esfuerzos, muestra ya notables cambios de forma. Su propiedad mecánica más característica es su elevada facultad para el alargamiento.
           .row(numero="3" titulo="Usos interesantes") 
-            p Prácticamente forma parte de todas las aleaciones de oro, plata y platino. Bajo forma de sales también suele formar parte de la composición de algunos baños de oro de color. Forma parte de la composición de muchas soldaduras para metales preciosos. En bisutería fabricada con ZamaK, los baños de cobre alcalino y acido constituyen una fase intermedia para los posteriores de níquel y dorado y plateado. Aleado con zinc da lugar a una amplia gama de latones entre los que se encuentra el Tombak y el similor. Aleado con estaño da lugar a una amplia gama de bronces.
+            p Prácticamente forma parte de todas las aleaciones de oro, plata y platino. Bajo forma de sales también suele formar parte de la composición de algunos baños de oro de color. Forma parte de la composición de muchas soldaduras para metales preciosos. En bisutería fabricada con zamaK, los baños de cobre alcalino y acido constituyen una fase intermedia para los posteriores de níquel y dorado y plateado. Aleado con zinc da lugar a una amplia gama de latones entre los que se encuentra el tombak y el similor. Aleado con estaño da lugar a una amplia gama de bronces.
 
       .col-lg-4.col-md-6.p-lg-5
         figure.mb-4
-          img(src='@/assets/curso/temas/tema4/img-3.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema4/img-3.png')
 
     .row.pe-lg-3.justify-content-center.mb-4(data-aos="zoom-in")
       .col-auto.pe-2.mt-1
         img(src="@/assets/curso/temas/tema2/tria.svg")
       .col.px-0
         h2.mb-0 Zinc 
-    p.mb-4 El zinc no es atacado por el aire fresco. El aire húmedo lo ataca superficialmente formándose una capa de carbonato básico hidratado. El agua pura no lo ataca, pero si el agua de lluvia a causa del amoniaco y del anhídrido carbónico que contiene. El Zinc puro se disuelve fácilmente en ácido clorhídrico y menos en los ácidos sulfúricos y acético, si contiene impurezas como hierro, cadmio, arsénico y antimonio, aumenta la solubilidad. El zinc es aleable con la mayoría de los metales. 
+    p.mb-4 El zinc no es atacado por el aire fresco. El aire húmedo lo ataca superficialmente formándose una capa de carbonato básico hidratado. El agua pura no lo ataca, pero si el agua de lluvia a causa del amoniaco y del anhídrido carbónico que contiene. El zinc puro se disuelve fácilmente en ácido clorhídrico y menos en los ácidos sulfúricos y acético, si contiene impurezas como hierro, cadmio, arsénico y antimonio, aumenta la solubilidad. El zinc es aleable con la mayoría de los metales. 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-5.col-md-8
         figure.mb-4
-          img(src='@/assets/curso/temas/tema4/img-4.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema4/img-4.png')
       .col-lg-7.mb-4
         .row.pe-lg-3.justify-content-center
           .col-auto.pe-2.mt-2
@@ -83,7 +83,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-4.col-md-8
             figure.mb-4
-              img.img-200(src='@/assets/curso/temas/tema4/img-5.png', alt='Texto que describa la imagen')
+              img.img-200(src='@/assets/curso/temas/tema4/img-5.png')
           .col-lg-8.pp-x
             .row.pe-lg-3.justify-content-center
               .col-auto.pe-2.mt-2
@@ -116,7 +116,7 @@
             p.mb-0 <b>Usos interesantes:</b> tiene innumerables aplicaciones como elemento de aleación con otros metales. Forma parte de muchas soldaduras de oro y también de plata. 
       .col-lg-5.col-md-8
         figure.mb-4
-          img(src='@/assets/curso/temas/tema4/img-6.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema4/img-6.png')
 
     .row.pe-lg-3.justify-content-center.mb-4(data-aos="fade-left")
       .col-auto.pe-2.mt-1
@@ -127,7 +127,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
       .col-lg-3.col-md-6
         figure.mb-4
-          img(src='@/assets/curso/temas/tema4/img-7.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema4/img-7.png')
 
       .col-lg-8
         LineaTiempoD.color-acento-botones
@@ -154,7 +154,7 @@
             p El platino bajo forma de baño de chapado, se utiliza para recubrir los ánodos de titanio. Antes de la aparición del oro blanco, era prácticamente el único metal que acompañaba a los diamantes y brillantes. En la actualidad, se utiliza cada vez menos por dos razones fundamentadas: por su precio y porque cada vez son menos los joyeros que los saben trabajar. También es importante su utilización en algunos utensilios de laboratorio. Son aleaciones interesantes: platino/iridio, platino/paladio, platino/osmio, platino/rodio, platino/rutenio, platino/plata, platino/cobre. La aleación platino/oro con poca proporción de oro tiene un aspecto feo, es dura y frágil, en cambio el oro con el 10% a 15% de platino tiene una notable resistencia mecánica y física.
       .col-lg-3.col-md-6
         figure.mb-4
-          img(src='@/assets/curso/temas/tema4/img-8.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema4/img-8.png')
 
     .row.pe-lg-3.justify-content-center.mb-4(data-aos="zoom-in")
       .col-auto.pe-2.mt-1
@@ -170,19 +170,19 @@
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
       .col-lg-4.col-md-8        
         figure.mb-4
-          img(src='@/assets/curso/temas/tema4/img-9.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema4/img-9.png')
       .col-lg-8.mb-4  
         .row.pe-lg-3.justify-content-center
           .col-auto.pe-2.mt-2
             img(src="@/assets/curso/temas/tema2/check.svg")
           .col.px-0
-            p.mb-0 <b>Propiedades mecánicas:</b> Es el más dúctil y maleable de todos los metales, pudiendo obtenerse hojas o panes de 1/12000mm. Y un gramo de oro se puedes estirar en hilos hasta 2000 m de longitud. Pequeñas impurezas tales como: bismuto, teluro y plomo disminuyen su maleabilidad. Es más blando que la plata y más duro que el estaño teniendo una dureza de 2,5 a 3 en la escala de Mosh. Las impurezas anteriormente indicadas aumentan su dureza.
+            p.mb-0 <b>Propiedades mecánicas:</b> es el más dúctil y maleable de todos los metales, pudiendo obtenerse hojas o panes de 1/12000mm. Y un gramo de oro se puedes estirar en hilos hasta 2000 m de longitud. Pequeñas impurezas tales como: bismuto, teluro y plomo disminuyen su maleabilidad. Es más blando que la plata y más duro que el estaño teniendo una dureza de 2,5 a 3 en la escala de Mosh. Las impurezas anteriormente indicadas aumentan su dureza.
       .col-lg-12
         .row.pe-lg-3.justify-content-center
           .col-auto.pe-2.mt-2
             img(src="@/assets/curso/temas/tema2/check.svg")
           .col.px-0
-            p.mb-0 <b>Usos interesantes: </b>Es el metal más empleado en la joyería En tiempos pasados se empleó muchísimo para monedas. Se emplea para el dorado del vidrio y de la porcelana. En odontología para piezas dentales. Para el dorado galvánico sobre objetos de cobre, latón y plata. En galvanotecnia es muy utilizado el cianuro doble de oro y de potasio. Las aleaciones de oro son numerosísimas entre las que caben destacar: oro/plata, oro/cobre, oro/plata/cobre, oro/plata/cobre/zinc, oro/plata/cobre/níquel/zinc, oro/plata/cobre/paladio, oro/plata/platino, oro/paladio, oro/ paladio/plata. También se utiliza para preparar soldaduras para todas las aleaciones citadas anteriormente.
+            p.mb-0 <b>Usos interesantes: </b>es el metal más empleado en la joyería En tiempos pasados se empleó muchísimo para monedas. Se emplea para el dorado del vidrio y de la porcelana. En odontología para piezas dentales. Para el dorado galvánico sobre objetos de cobre, latón y plata. En galvanotecnia es muy utilizado el cianuro doble de oro y de potasio. Las aleaciones de oro son numerosísimas entre las que caben destacar: oro/plata, oro/cobre, oro/plata/cobre, oro/plata/cobre/zinc, oro/plata/cobre/níquel/zinc, oro/plata/cobre/paladio, oro/plata/platino, oro/paladio, oro/ paladio/plata. También se utiliza para preparar soldaduras para todas las aleaciones citadas anteriormente.
 
     .row.pe-lg-3.justify-content-center.mb-4(data-aos="fade-right")
       .col-auto.pe-2.mt-1
@@ -195,7 +195,7 @@
         .row.justify-content-center.align-items-center
           .col-lg-3.col-md-8        
             figure.mb-4
-              img.img-200(src='@/assets/curso/temas/tema4/img-10.png', alt='Texto que describa la imagen').col-lg-
+              img.img-200(src='@/assets/curso/temas/tema4/img-10.png').col-lg-
           .col-lg-9.px-5  
             .row.pe-lg-3.justify-content-center
               .col-auto.pe-2.mt-2
@@ -212,7 +212,7 @@
               .col-auto.pe-2.mt-2
                 img(src="@/assets/curso/temas/tema2/check.svg")
               .col.px-0
-                p.mb-0 <b>Usos interesantes: </b> Se emplea para la fabricación de monedas, alhajas, relojes, utensilios domésticos y objetos artísticos. Se emplea también para el plateado galvánico de objetos, especialmente sobre cobre o latón. De sus compuestos el más importante es el nitrato del cual se parte para la obtención de todas las sales de plata. Su mayor aplicación es aleada con otros metales y de estos especialmente el cobre y el oro.
+                p.mb-0 <b>Usos interesantes: </b> se emplea para la fabricación de monedas, alhajas, relojes, utensilios domésticos y objetos artísticos. Se emplea también para el plateado galvánico de objetos, especialmente sobre cobre o latón. De sus compuestos el más importante es el nitrato del cual se parte para la obtención de todas las sales de plata. Su mayor aplicación es aleada con otros metales y de estos especialmente el cobre y el oro.
 
 
 </template>
