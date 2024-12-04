@@ -180,7 +180,7 @@
         .row.px-lg-5.px-md-0.justify-content-center.align-items-center(titulo="")
           .col-md-5
             figure.mb-4
-              img(src='@/assets/curso/temas/tema2/img-8.png')
+              img(src='@/assets/curso/temas/tema2/img-9.png')
           .col-xl-7.mb-4.mb-md-0.px-lg-5
             .titulo-sexto.c-r
               h5.text-white Tabla 2. 
@@ -207,7 +207,7 @@
         .row.px-lg-5.px-md-0.justify-content-center.align-items-center(titulo="")
           .col-md-5
             figure.mb-4
-              img(src='@/assets/curso/temas/tema2/img-8.png')
+              img(src='@/assets/curso/temas/tema2/img-12.png')
           .col-xl-7.mb-4.mb-md-0.px-lg-5
             .titulo-sexto.c-r
               h5.text-white Tabla 3.
@@ -235,7 +235,7 @@
         .row.px-lg-5.px-md-0.justify-content-center.align-items-center(titulo="")
           .col-md-5
             figure.mb-4
-              img(src='@/assets/curso/temas/tema2/img-8.png')
+              img(src='@/assets/curso/temas/tema2/img-10.png')
           .col-xl-7.mb-4.mb-md-0.px-lg-5
             .titulo-sexto.c-r
               h5.text-white Tabla 4. 
@@ -263,7 +263,7 @@
         .row.px-lg-5.px-md-0.justify-content-center.align-items-center(titulo="")
           .col-md-5.py-md-4
             figure.mb-4
-              img(src='@/assets/curso/temas/tema2/img-8.png')
+              img(src='@/assets/curso/temas/tema2/img-11.png')
           .col-xl-7.mb-4.mb-md-0.px-lg-5
             .titulo-sexto.c-r
               h5.text-white Tabla 5. 

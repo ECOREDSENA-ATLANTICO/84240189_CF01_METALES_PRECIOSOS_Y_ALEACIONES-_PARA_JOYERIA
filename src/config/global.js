@@ -116,13 +116,13 @@ export default {
         'Documento sectorial metales y piedras preciosas, joyería y bisutería.',
       referencia: 'Cadena productiva de la industria de la joyería',
       tipo: 'PDF',
-      descarga: '/downloads/INST-D 2003. 167.pdf',
+      descarga: '/downloads/INST-D_2003_167.pdf',
     },
     {
       tema: 'Documento cadena productiva de la joyería.',
       referencia: 'Artesanías de Colombia',
       tipo: 'PDF',
-      link: '/downloads/INST-D 2002. 97.pdf',
+      link: '/downloads/INST-D_2002_97.pdf',
     },
     {
       tema: 'Metales preciosos y aleaciones para joyería.',

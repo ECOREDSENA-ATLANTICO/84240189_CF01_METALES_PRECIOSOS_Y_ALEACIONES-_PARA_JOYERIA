@@ -1,19 +1,20 @@
 <template lang="pug">
 .curso-main-container.pb-3
   BannerInterno
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
+  .container.tarjeta.tarjeta--blanca.px-4.px-md-5.pt-md-5.fnd-4-1.pt-4
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
       h1 Datos sobre metales importantes para el joyero 
-    .row.justify-content-center.align-items-center.mb-3.fnd-10(data-aos="zoom-in")
+  .container.tarjeta.fnd-4(data-aos="fade-left")    
+    .row.justify-content-center.align-items-center.px-5.px-md-5.py-3
       .col-xl-3.col-lg-4.col-md-8
-        figure.mb-4
+        figure
           img(src='@/assets/curso/temas/tema4/img-1.png')
-      .col-lg-8
+      .col-lg-8.mt-4
         p La química está basada en el estudio de los 103 elementos primarios, conocidos hasta la fecha. Son simples cuando se encuentran en estado puro y compuestos cuando están mezclados entre sí. Aquí estudiaremos algunos, sin los cuales, no podría existir la joyería tal como la conocemos. Cada uno aparte de sus características atómicas, posee propiedades concretas que lo diferencia de los demás y, cuando se mezclan entre sí, estas propiedades cambian.<b> Todos los metales que se van a tratar son metales, unos nobles y otros no, pero cada uno juega una función determinada en el contexto:</b>
-
-    p El oro, la plata y el platino son metales preciosos esenciales en joyería, valorados por su belleza, maleabilidad y durabilidad.
+  .container.tarjeta.tarjeta--blanca.px-4.px-md-5.fnd-4-2-     
+    p.mt-4 El oro, la plata y el platino son metales preciosos esenciales en joyería, valorados por su belleza, maleabilidad y durabilidad.
     .row.pe-lg-3.justify-content-center.mb-3(data-aos="fade-right")
       .col-auto.pe-2.mt-1
         img(src="@/assets/curso/temas/tema2/tria.svg")
