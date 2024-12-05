@@ -122,7 +122,7 @@ export default {
       tema: 'Documento cadena productiva de la joyería.',
       referencia: 'Artesanías de Colombia',
       tipo: 'PDF',
-      link: '/downloads/INST-D_2002_97.pdf',
+      descarga: '/downloads/INST-D_2002_97.pdf',
     },
     {
       tema: 'Metales preciosos y aleaciones para joyería.',
