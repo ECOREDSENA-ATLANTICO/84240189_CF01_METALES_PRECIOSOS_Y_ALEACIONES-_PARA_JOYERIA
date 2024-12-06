@@ -39,18 +39,18 @@
           .col-xl-9.col-lg-11.mb-4.mb-md-0
             h5 Oro
             p El oro se encuentra en estado nativo en yacimientos minerales de muy diversas clases, en aluviones, en arenas, fluviales, etc. En granos o pepitas, que en algunos casos son de gran tamaño, otras en agujas, pajuelas o polvo.
-            .row.mb-4.justify-content-center.t-end.pe-lg-5.pe-md-0
-              .col-md-6
-                p.mb-0.text-center Símbolo Químico ..............Au                               
-                p.mb-0 Número atómico ...............79
-                p.mb-0 Valencia ............................1,3          
-                p.mb-0 Estado de oxidación .........+1  
-                p.mb-0 Electronegatividad ...........2,4
-              .col-md-6
+            .row.mb-4.justify-content-center.pe-lg-5.pe-md-0
+              .col-md-6.text-center
+                p.mb-0 Símbolo Químico ...............Au                               
+                p.mb-0 Número atómico ................79
+                p.mb-0 Valencia .............................1,3        
+                p.mb-0 Estado de oxidación ..........+1
+                p.mb-0 Electronegatividad ............2,4
+              .col-md-6.text-center
                 p.mb-0 Masa atómica (g/mol) ...196,967                
-                p.mb-0 Densidad (g/ml) ...................19,3
-                p.mb-0 Punto de ebullición (ºC) .....2970
-                p.mb-0 Punto de fusión (ºC) ...........1063
+                p.mb-0 Densidad (g/ml) ....................19,3
+                p.mb-0 Punto de ebullición (ºC) ......2970
+                p.mb-0 Punto de fusión (ºC) ............1063
             p En la actualidad, la mayor parte del oro es extraído de minerales que lo contienen en proporción ínfima; también, se lo extrae de otros metales al refinarlos, como por ejemplo el cobre. El oro ha sido el primer metal conocido por el ser humano, que en los tiempos prehistóricos sirvió para confeccionar adornos personales.
 
         .row.p-xl-5.justify-content-center.align-items-center
@@ -64,14 +64,14 @@
                 p Es un metal muy dúctil, maleable, muy tenaz cuando esta puro, de color gris blanquecino con poco brillo metálico, pero lo adquiere intenso poco a poco que se frote.
                 p Tanto el platino como los metales de su mena se encuentran en aluviones en completa es descomposición, procedentes de las rocas de peridoto más o menos transformadas en serpentinas, como también con el oro en filones de cuarzo aurífero, y algunas veces en estado nativo, en forma de granos y pepitas, con otros metales de la misma familia, o iridio, osmio, paladio, rutenio y rodio.
               .col-lg-5.col-md-6
-                p.mb-0 Símbolo Químico ........................... Pt
+                p.mb-0 Símbolo Químico ............................ Pt
                 p.mb-0 Número atómico .............................78            
-                p.mb-0 Valencia ........................................2,4
-                p.mb-0 Estado de oxidación ......................+2
-                p.mb-0 Masa atómica (g/mol) .............195,09
-                p.mb-0 Densidad (g/ml) ..........................21,4
+                p.mb-0 Valencia ..........................................2,4
+                p.mb-0 Estado de oxidación .......................+2
+                p.mb-0 Masa atómica (g/mol) ............195,09
+                p.mb-0 Densidad (g/ml) ...........................21,4
                 p.mb-0 Punto de ebullición (ºC) .............4530
-                p.mb-0 Punto de fusión (ºC) ..................1769
+                p.mb-0 Punto de fusión (ºC) ...................1769
 
         .row.p-xl-5.justify-content-center.align-items-center
           .col-xl-3.col-lg-4.col-md-8
@@ -99,16 +99,16 @@
 
             p La mayor parte del cobre del mundo se obtiene de los sulfuros minerales como la calcocita, covelita, calcopirita, bornita y enargita. Los minerales oxidados son la cuprita, tenorita, malaquita, azurita, crisocola y brocantita. El cobre natural, antes abundante en Estados Unidos, se extrae ahora sólo en Michigan. El grado del mineral empleado en la producción de cobre ha ido disminuyendo regularmente, conforme se han agotado los minerales más ricos y ha crecido la demanda de cobre. Hay grandes cantidades de cobre en la Tierra para uso futuro si se utilizan los minerales de los grados más bajos, y no hay probabilidad de que se agoten durante un largo periodo.
             .row
-              .col-md-6
-                p.mb-0 Símbolo Químico ..........................Cu
+              .col-md-6.text-center
+                p.mb-0 Símbolo Químico ...........................Cu
                 p.mb-0 Número atómico ........................... 29
-                p.mb-0 Valencia........................................ 1,2
-                p.mb-0 Estado de oxidación ...................... +2
-              .col-md-6
+                p.mb-0 Valencia......................................... 1,2
+                p.mb-0 Estado de oxidación ......................+2
+              .col-md-6.text-center
                 p.mb-0 Masa atómica (g/mol) .............. 63,54
-                p.mb-0 Densidad (g/ml) ......................... 8,96
-                p.mb-0 Punto de ebullición (ºC) ............ 2595
-                p.mb-0 Punto de fusión (ºC) ................. 1083
+                p.mb-0 Densidad (g/ml) ........................... 8,96
+                p.mb-0 Punto de ebullición (ºC) ............. 2595
+                p.mb-0 Punto de fusión (ºC) ................... 1083
 
     p Actualmente en el mercado comercial encontramos otros metales que son binarios (combinación de 2 metales) algunos mencionados son los siguientes:
 

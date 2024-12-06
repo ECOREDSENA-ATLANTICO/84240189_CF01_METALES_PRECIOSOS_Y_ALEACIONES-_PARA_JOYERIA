@@ -96,7 +96,7 @@
       .col-auto.mb-3
         h3.mb-0.fnd-2-1.fnd-2 Cálculo del peso que hay que tomar de lingote de título conocido para que corresponda a una cantidad de fino determinada
 
-    p.mb-4 Disponemos de un lingote de una aleación de oro de 584 milésimas y precisamos tomar una cantidad de aleación que contenga 50 grs de oro fino.
+    p.mb-4 Disponemos de un lingote de una aleación de oro de 584 milésimas y precisamos tomar una cantidad de aleación que contenga 50 g de oro fino.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
       .col-lg-8
@@ -104,7 +104,7 @@
           h5 Figura 4. 
           span Tabla Kilates.
         figure
-          img(src='@/assets/curso/temas/tema3/img-9-.png', alt='Se muestra un ejemplo para saber la cantidad de aleación que contenga 50 grs de oro fino.')  
+          img(src='@/assets/curso/temas/tema3/img-9-.png', alt='Se muestra un ejemplo para saber la cantidad de aleación que contenga 50 g de oro fino.')  
           figcaption Fuente: Sena (2024).
 
 </template>

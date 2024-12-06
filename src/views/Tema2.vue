@@ -134,7 +134,7 @@
       .col-lg-10
         .titulo-sexto.c-r
           h5 Figura 1. 
-          span Tabla periodico
+          span Tabla periódica
         figure
           img(src='@/assets/curso/temas/tema2/img-7.png', alt='En la figura se muestra la tabla periódica.')  
         figcaption Fuente: stock.adobe.
@@ -181,7 +181,7 @@
           .col-md-5
             figure.mb-4
               img(src='@/assets/curso/temas/tema2/img-9.png')
-          .col-xl-7.mb-4.mb-md-0.px-lg-5
+          .col-lg-7.mb-4.mb-md-0.px-lg-5
             .titulo-sexto.c-r
               h5.text-white Tabla 2. 
               span.text-white Punto de fusión de metales aleados de oro y plata

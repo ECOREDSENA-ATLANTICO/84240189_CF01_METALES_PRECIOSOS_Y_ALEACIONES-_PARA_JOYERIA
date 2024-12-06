@@ -13,8 +13,8 @@ export default {
   name: 'ActividadDidactica',
   data: () => ({
     cuestionario: {
-      tema: 'Reconocimientos y aleaciones en los metales precioso',
-      titulo: 'Reconocimientos y aleaciones en los metales precioso',
+      tema: 'Reconocimientos y aleaciones en los metales preciosos',
+      titulo: 'Reconocimientos y aleaciones en los metales preciosos',
       introduccion:
         'Preguntas de opción múltiple: lea los siguientes enunciados y seleccione la respuesta que considere correcta.',
       barajarPreguntas: true,

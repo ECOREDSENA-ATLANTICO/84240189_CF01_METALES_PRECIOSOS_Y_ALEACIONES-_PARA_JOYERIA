@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Reconocimientos y aleaciones en los metales precioso',
     descripcionCurso:
-      'El programa "Reconocimientos y aleaciones en metales preciosos" capacita a los participantes en la identificación, análisis y elaboración de aleaciones para joyería. Combina teoría y práctica, desarrollando competencias en el manejo de materiales y asegurando calidad según estándares internacionales. Su enfoque es mejorar las habilidades técnicas de operarios y aprendices, impulsando su desempeño y proyección profesional en el sector.',
+      ' Este componente se centra en la identificación, análisis y elaboración de aleaciones para joyería. Combina teoría y práctica, desarrollando competencias en el manejo de materiales y asegurando calidad según estándares internacionales. Su enfoque es mejorar las habilidades técnicas de operarios y aprendices, impulsando su desempeño y proyección profesional en el sector.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -112,17 +112,16 @@ export default {
   },
   complementario: [
     {
-      tema:
-        'Documento sectorial metales y piedras preciosas, joyería y bisutería.',
-      referencia: 'Cadena productiva de la industria de la joyería',
+      tema: 'Los metales',
+      referencia: 'Referencial Nacional de Joyeria ',
       tipo: 'PDF',
-      descarga: '/downloads/INST-D_2003_167.pdf',
+      descarga: '/downloads/INST-D_2013_190.pdf',
     },
     {
-      tema: 'Documento cadena productiva de la joyería.',
-      referencia: 'Artesanías de Colombia',
+      tema: 'Tipos de joyas',
+      referencia: 'Diccionario deJoyeria',
       tipo: 'PDF',
-      descarga: '/downloads/INST-D_2002_97.pdf',
+      descarga: '/downloads/diccionario_joyeria.pdf',
     },
     {
       tema: 'Metales preciosos y aleaciones para joyería.',
