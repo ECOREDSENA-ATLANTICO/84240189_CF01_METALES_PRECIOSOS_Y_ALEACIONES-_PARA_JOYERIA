@@ -1,6 +1,7 @@
 export default {
   global: {
-    componenteFormativo: 'Reconocimientos y aleaciones en los metales precioso',
+    componenteFormativo:
+      'Reconocimientos y aleaciones en los metales preciosos',
     descripcionCurso:
       ' Este componente se centra en la identificación, análisis y elaboración de aleaciones para joyería. Combina teoría y práctica, desarrollando competencias en el manejo de materiales y asegurando calidad según estándares internacionales. Su enfoque es mejorar las habilidades técnicas de operarios y aprendices, impulsando su desempeño y proyección profesional en el sector.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
